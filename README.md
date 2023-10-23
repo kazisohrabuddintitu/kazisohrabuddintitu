@@ -1,6 +1,11 @@
 # Overview
-Hi there!<br>
-I am Kazi Sohrab Uddin Titu, currently I'm working on Machine Learning, Web Application and Mobile Application.
+# Hi there!
+
+I am Kazi Sohrab Uddin Titu, and I am currently working on:
+
+- Machine Learning
+- Web Application Development
+- Mobile Application Development
 
 
 
