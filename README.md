@@ -1,6 +1,6 @@
 # Hi there!
 
-I am Kazi Sohrab Uddin Titu, and I am currently working on:
+I am Kazi Sohrab Uddin Titu, currently working on:
 
 - Artificial Intelligence
 
