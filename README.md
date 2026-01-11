@@ -2,8 +2,7 @@
 
 I am Kazi Sohrab Uddin Titu, and I am currently working on:
 
-- Machine Learning
-- Web Application Development
+- Artificial Intelligence
 
 
 
